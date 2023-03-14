@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ONG - AYUDA A UN PELUDO</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+        color: #666;
+        text-align: justify;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>ONG - AYUDA A UN PELUDO</h1>
+    <p> Una ONG que ayuda a peludos es una organización sin fines de lucro que se dedica a ayudar a los animales, en particular a aquellos que han sido abandonados o maltratados. 
+        Los "peludos" a los que se refiere esta ONG son generalmente perros y gatos, También puede ofrecer servicios de esterilización y atención veterinaria gratuita o a bajo costo para animales de dueños con bajos ingresos, así como para animales callejeros.
+    Lo que buscamos hacer es mostrar las fichas para mostrarle los diferentes gatos o perros que estan en adopcion.</p>
+    <h1> Nuestros integrantes son:</h1>
+    <ol>
+        <li>Juan Paillan</li>
+        <li>Sebastian Muñoz</li>
+        <li>Luis Valenzuela</li>
+        <h1>Nuestras Secciones de ayuda:</h1>
+    </ol>
+  </body>
+</html>
