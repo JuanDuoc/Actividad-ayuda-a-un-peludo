@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ONG - AYUDA A UN PELUDO</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #ffffff;
+      }
+      h1 {
+        color: #069e39;
+        text-align: center;
+      }
+      p {
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.5;
+        color: #ffffff;
+        text-align: justify;
+        text-align: left;
+      }
+    </style>
+    <link rel="stylesheet" href="PaginaPrincipal.css">
+  </head>
+  <body>
+    <h1>ONG - AYUDA A UN PELUDO</h1>
+    <p> Una ONG que ayuda a peludos es una organización sin fines de lucro que se dedica a ayudar a los animales, en particular a aquellos que han sido abandonados o maltratados. 
+        Los "peludos" a los que se refiere esta ONG son generalmente perros y gatos, También puede ofrecer servicios de esterilización y atención veterinaria gratuita o a bajo costo para animales de dueños con bajos ingresos, así como para animales callejeros.
+    Lo que buscamos hacer es mostrar las fichas para mostrarle los diferentes gatos o perros que estan en adopcion.</p>
+      <hr>
+    <h1> Nuestros integrantes son:</h1>
+    <hr>
+    <center>
+      <ol>
+          <li>Juan Paillan</li>
+          <li>Sebastian Muñoz</li>
+          <li>Luis Valenzuela</li>
+        
+        
+        <h1>Nuestras Secciones de ayuda:</h1>
+        <hr>
+    </ol>
+    <section class="boxseccion"> 
+    </center>
+    <center> <img src="/img/SeccionGatosLog.png" width ="300"alt="" class="box-imageGato"> 
+    </center>
+    <center><a href="">Gatos</a>
+    </center>
+    
+    <img src="" alt="">
+
+    <center><img src="img/SeccionPerrosLog.png" width ="300" alt="" class="box-imagePerro">
+      <center><a href="">Perros</a> 
+      
+      </center>
+      </center>
+
+    </section>
+    
+      
+  </body>
+</html>
